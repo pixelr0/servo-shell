@@ -1,4 +1,4 @@
-# Servo Shell
+# Servo Shell X
 A proof of concept web browser interface for Servo, using the [mozbrowser](https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API) APIs.
 
 ## Status
